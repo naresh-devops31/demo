@@ -2,6 +2,10 @@ package minew.app.org;
 
 /**
  * Hello world!
+
+B
+B
+B
  *
  */
 public class App 
